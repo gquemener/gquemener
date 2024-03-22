@@ -6,4 +6,6 @@
 
 📖 I'm reading articles or watching talks about Event Sourcing, Event Driven Architecture in general or common development concepts (paradigms, guides like CUPID/SOLID, testing and legacy evolution strategies, ...).
 
+📝 I sometimes write [blog posts](https://gquemener.github.io/)
+
 📫 You can reach me on [Twitter](https://twitter.com/GildasQ).
