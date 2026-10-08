@@ -13,4 +13,4 @@
   - [Awesome Domain Modeling](https://github.com/gquemener/awesome-domain-modeling)
   - [Awesome Service Boundaries](https://github.com/gquemener/awesome-service-boundaries)
 
-📫 You can reach me on [Twitter](https://twitter.com/GildasQ).
+📫 You can reach me on [Discord](https://discord.com/invite/sEZGSHNNbH).
